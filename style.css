@@ -1,0 +1,10 @@
+header { background: blue; color: white;}
+nav { background: red; }
+footer { background: black; color: white;}
+.lead { color:black; font-weight: bold; }
+#intro { background: red; padding: 12px;}
+p { font-size: 30px; color:brown;}
+p { border-bottom: 3px solid rgb(38, 0, 255);}
+nav { background: #1e3a8a; padding: 12px }
+a { color:aqua; margin-right: 16px; font-size: 28px;
+}
